@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 764 hello
+sudo chown 744 hello
